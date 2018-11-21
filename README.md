@@ -20,7 +20,7 @@ Finding the 1st N prime numbers using Sequential, omp, mpi and hybrid algorithms
 
 # Authors
 - **Abderraouf GATTAL** 
-- **Meyssa ZOUAMBI**
+- [**Meyssa ZOUAMBI**](https://github.com/Meyssa)
 
 # License
 This project is licensed under the MIT License
